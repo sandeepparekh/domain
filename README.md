@@ -26,3 +26,6 @@ api key from <a href="https://domain-availability.whoisxmlapi.com/api" target="_
   </li>  
 </ul>
 
+<h1>Screenshots</h1>
+<img src="https://i.ibb.co/NTCTDnx/desktop.png" alt="desktop" border="0">
+<img src="https://i.ibb.co/LZXDwPd/mobile.png" alt="mobile" border="0">
